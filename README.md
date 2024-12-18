@@ -17,7 +17,7 @@
 - 分享好玩好用的东西，吐槽一切可值得吐槽的事物
   
 ### 📫 联系我
-[![Website](https://img.shields.io/badge/个人网站-blue?style=flat-square&logo=firefox&logoColor=white)](https://www.snowlee.site/)
+[![Website](https://img.shields.io/badge/snowlee.site-4285F4?style=flat-square&logo=globe&logoColor=white)](https://www.snowlee.site/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/LeeSnow01421114)
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@snow_share)
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/snow_share)
