@@ -17,11 +17,11 @@
 - 分享好玩好用的东西，吐槽一切可值得吐槽的事物
   
 ### 📫 联系我
+[![Website](https://img.shields.io/badge/个人网站-blue?style=flat-square&logo=firefox&logoColor=white)](https://www.snowlee.site/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/LeeSnow01421114)
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@snow_share)
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/snow_share)
 [![BiliBili](https://img.shields.io/badge/-BiliBili-00A1D6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/6868958)
 [![Douyin](https://img.shields.io/badge/-抖音-000000?style=flat-square&logo=tiktok&logoColor=white)](https://v.douyin.com/iURHv48q/)
-[![Xiaohongshu](https://img.shields.io/badge/-小红书-FF2442?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDJDNi40NzcgMiAyIDYuNDc3IDIgMTJzNC40NzcgMTAgMTAgMTAgMTAtNC40NzcgMTAtMTBTMTcuNTIzIDIgMTIgMnptMCAxOGMtNC40MTEgMC04LTMuNTg5LTgtOHMzLjU4OS04IDgtOCA4IDMuNTg5IDggOC0zLjU4OSA4LTggOHoiIGZpbGw9IiNGRkZGRkYiLz48L3N2Zz4=&logoColor=white)](https://www.xiaohongshu.com/user/profile/5c7a566a00000000180133ec)
 
 ![Metrics](/github-metrics.svg)
