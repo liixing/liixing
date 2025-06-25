@@ -1,7 +1,7 @@
 # 👋 Hi there, 我是 Snow
 
 ### 🧑‍💻 关于我
-- [EplayerX 作者](https://testflight.apple.com/join/E8Uyfh6y)
+- [EplayerX](https://testflight.apple.com/join/E8Uyfh6y) 作者
 - 💻 一名热爱技术与数码的开发者
 - 🌱 不断学习，热爱分享
 
