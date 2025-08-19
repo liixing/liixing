@@ -2,7 +2,7 @@
 
 ### 🧑‍💻 About Me
 
-- Author of [EplayerX](https://testflight.apple.com/join/E8Uyfh6y)
+- Author of [EplayerX](https://apps.apple.com/us/app/video-player-eplayerx/id6747369377)
 - 💻 A developer passionate about technology and digital gadgets
 - 🌱 Continuously learning and love sharing knowledge
 
